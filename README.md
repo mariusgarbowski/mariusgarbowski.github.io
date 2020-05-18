@@ -1,2 +1,2 @@
 # mariusgarbowski.github.io
-Personal Webiste
+Personal Website
